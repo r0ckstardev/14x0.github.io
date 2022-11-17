@@ -39,11 +39,8 @@
             <div class="py-[4.5vh]"><font-awesome-icon class="text-[26px] mr-[2vh]" icon="fa-solid fa-face-smile-beam" /> </div>
             <div class="py-[2vh]">
                 <h3 class="text-[16px]">Effective cooperation </h3>
-<<<<<<< HEAD
                 <span class="text-[#c5c5c5]  text-[14px]">My cooperation with my clients make us feel like a team rather than a job. I revise and refactor until complete satisfaction is met.</span>
-=======
                 <span class="text-[#c5c5c5]  text-[14px]"> My cooperation with my clients make us feel like a team rather than a job. I revise and refactor until complete satisfaction is met. </span>
->>>>>>> b156adeae991e4e0126378248cb342f4b68e821b
             </div>
         </div>
     </div>
