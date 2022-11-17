@@ -126,10 +126,7 @@
           © 2017 - 2022     
         </div>
 </template>
-<<<<<<< HEAD
-=======
 
 <script lang="ts">
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 </script>
->>>>>>> b156adeae991e4e0126378248cb342f4b68e821b
