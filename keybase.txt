@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/cxrrupted
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://corrupted.lol
+  * I am cxrrupted (https://keybase.io/cxrrupted) on keybase.
+  * I have a public key with fingerprint A791 7EFA 453C F001 9273  52CE 4C38 802D 2309 D646
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101caa51d6a48d7c422cbfc06006acfef03d2781a3e6bad69c5aae4b21734ddf2cb0a",
+      "fingerprint": "a7917efa453cf001927352ce4c38802d2309d646",
+      "host": "keybase.io",
+      "key_id": "4c38802d2309d646",
+      "kid": "0101caa51d6a48d7c422cbfc06006acfef03d2781a3e6bad69c5aae4b21734ddf2cb0a",
+      "uid": "1a6023ca37fe171bfdf723669817b619",
+      "username": "cxrrupted"
+    },
+    "service": {
+      "hostname": "corrupted.lol",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1668681966,
+  "expire_in": 157680000,
+  "prev": "02fd70c1f37ace4188e741a527ec88e9b9226a4f515995f862878b6f7b92a0c4",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJbSBVBHMaPWlGnLDOk+22JIBLbmd2d2T1QRCGBFRVGpyg7zs7O2Jbt
+nvbsOSlmFFpQSnIKoQuJJFL00I2ILpKWodHFeimKosKgC0RRVj4k1azUW4/Ny8z8
+5/d985+PuZWdFQpnDNf336vTm+sz7t44kgzRVM7HKsl0rUopUiVtYYMTK7dYwo9t
+sS0pIslABpQQDViIqLqFqQohNTmVkSwjQjnjsmJBrAOiMGQSCxlUI4SpJgRYUS2L
+C1omUr7EbaeMeXHPdnxhS7ABMONE1RTKZRkYECsapEyliq7L0IKKbFhIRUK4yU0E
+CtGcSRKswHZFTWxig+39g//PfScH7QBBMlQoUTBnAAOTWxxDBSFDB9hEwAjABPMc
+spUJmlZ4XjLuM0uqzpdEOWVTFiQbPOUv4v5BCsrdcqGOe67vUrGMSJt8P56IBFK/
+Mh6w25kZ++MSM23HEkkKRYp5Cdt1pAgQJPXtwBYgpCMdGAjlS6wibnssZgeEhpEu
+ixHcw1JBPJBbWKaAK5iI1IGuM6wCokHMqFgbpgGhCI5rQDMMjesI6lg3EcfigMhU
+lYJ3bXNcKaKLNkmZsEzYZQ7xkx6Tqm92bBgSygiHhg3NDH5YKDwi5++/25c9PHTi
++Sul8HGLme5cmK5p/VY5cuW8nydXZbtNvbm9jXN+9ORWNOKdpejcHvPe7tCM0e/H
+Xbt1//LRxOnvD1tPFs9aPH3Wmty+dz3Hm66780suDUyZPJBn124ufrKtsbbrw/iL
+5y+lD6yYsu7M+obSJVtr2noPuUW14Pbyqamqhl8P3hhr+qLL7/BdjxY0t6e606Wx
+Z9NfVKdXtxTsvVD6rDtz91onOnEejNaNdDZWbWb1p34cG/c6KzbhRs3Srzx58OUZ
+Sq/65qmBvM6zVyZnfSm/0tYQLuxdlvN23yQpVv294VN09nzSNXNaybeKovaxc+3P
+izqe1h9O9ffvOBc90ncXjhpzsZ/8BkmtQ5M=
+=WhMi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cxrrupted
+
+==================================================================
