@@ -103,7 +103,7 @@
         <hr class="max-w-[1190px]  border-b-[#1f1f1f] border-b-solid border-b-[0.8px]  mt-[8px] "> 
     </div>
         <div class="text-purple-50 flex flex-col max-w-[1190px] mx-[18.8vw] mt-[18px] ">
-            <span> Breached.to <a class="text-[#c5c5c5] ml-[2vw] hover:underline hover:cursor-pointer"> https://breached.to/User-cxrruptedsxoul </a>  </span> 
+            <span> Breached.to <a class="text-[#c5c5c5] ml-[2vw] hover:underline hover:cursor-pointer"> https://breached.vc/User-cxrruptedsxoul </a>  </span> 
             <span> nulled.to <a class="text-[#c5c5c5] ml-[3.75vw] hover:underline hover:cursor-pointer "> https://www.nulled.to/user/5463566-cxrrupted </a> </span> 
             <span> sinister.ly<a class="text-[#c5c5c5] ml-[3.3vw] hover:underline hover:cursor-pointer"> https://sinister.ly/User-cxrrupted </a>  </span> 
         </div>
